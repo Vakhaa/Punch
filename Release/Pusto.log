@@ -1,0 +1,292 @@
+﻿  Maine.cpp
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(49,15): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(115,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(116,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(149,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(149,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(196,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(196,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(214,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(215,23): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(216,25): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\level.h(217,24): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Menu.h(23,25): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Menu.h(25,25): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Menu.h(35,15): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Menu.h(37,15): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(23,30): warning C4552: "-": результат выражения не используется
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(28,54): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(28,49): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(43,89): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(43,85): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(43,54): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(49,91): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(49,88): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(49,57): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(72,114): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(72,94): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(72,62): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(78,103): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(78,89): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(78,53): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(86,96): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(86,86): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(86,50): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(92,96): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(92,90): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(92,53): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(99,92): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(99,82): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(99,51): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(105,69): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(105,56): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(111,72): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(111,63): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(118,72): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(118,59): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(118,50): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(124,68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(124,60): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(134,100): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(134,94): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(134,77): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(140,96): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(140,93): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(140,76): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(171,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(173,23): warning C4551: в вызове функции отсутствует список аргументов
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(175,1): warning C4305: =: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(176,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(179,1): warning C4305: =: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(180,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(184,1): warning C4305: =: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(185,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(190,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(195,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(196,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(201,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(202,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(207,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(208,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(213,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(214,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(220,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(222,23): warning C4551: в вызове функции отсутствует список аргументов
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(224,1): warning C4305: =: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(225,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(228,1): warning C4305: =: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(229,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(233,1): warning C4305: =: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(234,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(239,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(244,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(245,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(250,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(251,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(256,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(257,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(262,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(263,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(288,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(315,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(316,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(334,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(338,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(341,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(343,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(438,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(439,1): warning C4305: аргумент: усечение из "double" в "float"
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(454,61): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(455,54): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(492,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  Создание кода
+E:\и другое\пробники\VisualStudio\2019\Pusto\Maine.cpp(558): warning C4715: startGame: значение возвращается не при всех путях выполнения
+  4 of 751 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Pusto.vcxproj -> E:\и другое\пробники\VisualStudio\2019\Pusto\x64\Release\Death Punch.exe
